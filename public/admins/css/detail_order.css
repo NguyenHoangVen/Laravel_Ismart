@@ -1,0 +1,44 @@
+.detail-order .card {
+    margin-bottom: 20px;
+}
+
+.detail-order ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.detail-order ul li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.detail-order .card .list-item .title {
+    position: relative;
+    color: #272727;
+    font-family: "serif";
+    font-weight: bold;
+}
+
+.detail-order .card .list-item .title i {
+    padding-right: 15px;
+    color: #07adc6;
+}
+
+.detail-order .info-order select {
+    border: 1px solid #ccc;
+    padding: 7px 20px;
+    font-size: 13px;
+    border-radius: 3px;
+    margin-right: 15px;
+}
+
+tr.total-order {
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+}
+
+.detail-order .card .list-item .order-id {
+    font-size: 20px;
+    color: chocolate;
+}

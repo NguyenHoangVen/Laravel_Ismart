@@ -1,0 +1,11 @@
+#content-complete {
+    max-width: 600px;
+    margin: 0px auto;
+}
+
+#content-complete .info {
+    font-size: 17px;
+    text-transform: uppercase;
+    text-align: center;
+    color: red;
+}
